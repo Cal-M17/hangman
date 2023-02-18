@@ -18,6 +18,12 @@ Hangman is a classic word guessing game in which you get a set number of guesses
 5. The game can be restarted at anytime via the available button.
 6. These rules are available by hovering over the helkp button.
 
+## Setup
+---
+1. download the code for the hangman game by pressing the code button in green and unzip the folder in the desired directory. Copy the folder path from teh file brwoser.
+2. open your terminal and change directory to the folder location of the downloaded game using `cd {folder path}`
+3. run `npm start` to start the game. The game will open in automatically in your browser.
+
 ## Available Scripts
 ---
 
